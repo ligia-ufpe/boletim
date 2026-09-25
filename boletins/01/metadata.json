@@ -1,0 +1,20 @@
+{
+  "edicao": 1,
+  "titulo": "Boletim Ligia #1",
+  "data_publicacao": "2025-10-15",
+  "autores": ["Maria Eduarda Farias das Chagas", "Vitor Negromonte", "Rodrigo Rossiter Guimaraes Filho"],
+  "introducao": "Seja bem vindo ao Boletim da Ligia número 1, seu resumo quinzenal do que está acontecendo de mais interessante no mundo da Inteligência Artificial!",
+  "textos": [
+    "01-formalizando-o-conhecimento-matematico-na-era-da-ia",
+    "02-sora-2-um-novo-capitulo-do-text-to-video",
+    "03-entre-sombras-e-vetores-quando-a-ia-encontra-platao",
+    "04-coluna-convidado-conformal-prediction-sob-distribution-shift"
+  ],
+  "links": [
+    {
+      "titulo": "AiDrop - Database de Prompts",
+      "url": "https://prompts.aidrop.news/",
+      "enviado_por": "Maira Lira"
+    }
+  ]
+}

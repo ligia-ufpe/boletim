@@ -1,0 +1,16 @@
+{
+  "boletins": [
+    {
+      "edicao": 0,
+      "path": "boletins/00",
+      "titulo": "Boletim Ligia #0",
+      "data_publicacao": "2025-09-17"
+    },
+    {
+      "edicao": 1,
+      "path": "boletins/01",
+      "titulo": "Boletim Ligia #1",
+      "data_publicacao": "2025-10-15"
+    }
+  ]
+}

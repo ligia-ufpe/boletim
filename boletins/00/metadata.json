@@ -1,0 +1,46 @@
+{
+  "edicao": 0,
+  "titulo": "Boletim Ligia #0",
+  "data_publicacao": "2025-09-17",
+  "autores": ["Fábio Papais", "Heitor Mendes Pereira"],
+  "introducao": "É com muito prazer que apresentamos o primeiro **Boletim Ligia**, sua leitura rápida, direta e contextualizada nas novidades do mundo da Inteligência Artificial! Nosso objetivo é trazer conteúdo relevante sobre as (diversas) inovações dessa área, tudo em 5min de leitura. Este é um material feito com muito carinho por membros de cada área da Liga Acadêmica de Inteligência Artificial da UFPE. Caso tenha alguma dúvida ou sugestão, não nos deixe de contatar por qualquer canal disponível! Boa leitura.",
+  "textos": [
+    "01-aprendendo-sem-rotulos-dinov3-e-self-supervised-learning",
+    "02-nem-jogo-nem-video-genie-3-e-world-models",
+    "03-entenda-a-causa-real-das-alucinacoes-da-ia",
+    "04-edge-ai-e-tinyml-a-inteligencia-na-borda"
+  ],
+  "links": [
+    {
+      "titulo": "Ferramentas de IA para pesquisa científica",
+      "url": "https://ia-pesquisa-cientifica.lovable.app/",
+      "enviado_por": "Filipe Calegário"
+    },
+    {
+      "titulo": "Planning with Reasoning using Vision Language World Model",
+      "url": "https://www.arxiv.org/abs/2509.02722",
+      "enviado_por": "Victor Negromonte"
+    },
+    {
+      "titulo": "EmbeddingGemma, novo modelo eficiente do Google",
+      "url": "https://huggingface.co/blog/embeddinggemma",
+      "enviado_por": "Rafael Lábio"
+    },
+    {
+      "titulo": "TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training",
+      "url": "https://arxiv.org/html/2410.06511v1",
+      "enviado_por": "Gabriel Wamat"
+    },
+    {
+      "titulo": "Perplexity Pro de graça por 1 ano com PayPal",
+      "url": "https://www.perplexity.ai/join/p/paypal-subscription",
+      "enviado_por": "Cleber Zanchettin"
+    },
+    {
+      "titulo": "But how do AI images and videos actually work?",
+      "url": "https://www.youtube.com/watch?v=iv-5mZ_9CPY",
+      "enviado_por": "Gabriel Wamat"
+    }
+  ],
+  "grupo_papers": "https://chat.whatsapp.com/F9FTFDyslqN3yRI0qFxon1"
+}

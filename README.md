@@ -23,8 +23,11 @@ boletim/
 │   │   └── ...
 │   └── 01/
 │       └── ...
+├── templates/
+│   └── boletim/                  # modelo para criar uma nova edição (veja templates/README.md)
 └── scripts/
-    └── montar_boletim.py         # junta uma edição inteira num único .md
+    ├── montar_boletim.py         # junta uma edição inteira num único .md
+    └── nova_edicao.py            # cria a estrutura de uma nova edição a partir do template
 ```
 
 Cada edição é uma pasta em `boletins/<edicao>` (dois dígitos, ex: `00`, `01`,
@@ -76,15 +79,27 @@ Fluxo sugerido para o blog:
 
 ## Como adicionar uma nova edição
 
-1. Crie a pasta `boletins/<novo-numero-com-2-digitos>/`.
-2. Para cada texto, crie uma subpasta com um slug (`01-slug-do-titulo/`,
-   `02-slug-do-titulo/`...) contendo um `texto.md` com `titulo` e `autor` no
-   frontmatter e o corpo do texto abaixo.
-3. Crie o `metadata.json` da edição (copie um existente como modelo) e liste
-   os slugs em ordem no campo `textos`.
-4. Adicione a edição em `index.json`.
-5. Rode o script de montagem (veja abaixo) para conferir como fica o `.md`
+Forma mais rápida — usar o template em `templates/boletim/`:
+
+```bash
+python3 scripts/nova_edicao.py
+```
+
+Isso já cria `boletins/<próxima-edição>/` com `metadata.json` preenchido e as
+pastas de texto placeholder, e atualiza o `index.json`. Depois é só:
+
+1. Renomear cada pasta de texto placeholder com um slug real (e atualizar a
+   lista `textos` em `metadata.json` de acordo).
+2. Preencher `titulo`/`autor` no frontmatter e escrever o corpo de cada
+   `texto.md`.
+3. Ajustar `metadata.json`: data de publicação, introdução (ou remover o
+   campo) e links (ou remover o campo).
+4. Rodar o script de montagem (veja abaixo) para conferir como fica o `.md`
    final antes de publicar no Substack.
+
+Veja `templates/README.md` para a lista de campos opcionais e o passo a
+passo manual (sem o script), e `python3 scripts/nova_edicao.py --help` para
+as opções (número de textos, forçar um número de edição específico).
 
 ## Script: juntar uma edição num único .md
 

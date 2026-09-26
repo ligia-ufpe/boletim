@@ -1,0 +1,18 @@
+{
+  "edicao": 0,
+  "titulo": "Boletim Ligia #0",
+  "data_publicacao": "AAAA-MM-DD",
+  "autores": ["Nome do Autor 1", "Nome do Autor 2"],
+  "introducao": "Saudação curta de abertura da edição. Campo opcional: remova esta chave inteira se a edição não tiver introdução.",
+  "textos": [
+    "01-slug-do-titulo",
+    "02-slug-do-titulo"
+  ],
+  "links": [
+    {
+      "titulo": "Nome do link ou paper",
+      "url": "https://...",
+      "enviado_por": "Nome de quem enviou"
+    }
+  ]
+}

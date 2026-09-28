@@ -2,6 +2,7 @@
 titulo: "Entenda a Causa Real das Alucinações da IA"
 autor: "João Victor Lopes"
 autor_url: "https://www.linkedin.com/in/joão-victor-lopess"
+imagem: "https://images.unsplash.com/photo-1731321094457-fc652112214b?auto=format&fit=crop&w=1200&q=70"
 fonte: "https://openai.com/pt-BR/index/why-language-models-hallucinate/"
 ---
 

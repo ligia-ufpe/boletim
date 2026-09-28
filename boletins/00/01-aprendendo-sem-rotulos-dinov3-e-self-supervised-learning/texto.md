@@ -1,6 +1,7 @@
 ---
 titulo: "Aprendendo sem rótulos: DinoV3 e Self-Supervised Learning"
 autor: "Fábio Papais"
+imagem: "https://images.unsplash.com/photo-1483519173755-be893fab1f46?auto=format&fit=crop&w=1200&q=70"
 ---
 
 Aprendizado Supervisionado e Não-Supervisionado: esses são os dois principais paradigmas de Machine Learning que normalmente nos são introduzidos em qualquer curso da área. Naturalmente, existem diversas outras técnicas para ensinar as máquinas; especialmente se considerarmos a crescente escassez de dados rotulados e aumento no custo de [labelling](https://en.wikipedia.org/wiki/Labeled_data) para grandes datasets. Já em 2008, no famoso artigo “[*The Unreasonable Effectiveness of Data*](https://static.googleusercontent.com/media/research.google.com/pt-BR//pubs/archive/35179.pdf)”, os autores  do Google previam como a **escassez de dados rotulados** viria a ser um problema. Esse artigo representou a mudança de visão da comunidade de ML na direção de quantidades de dados cada vez maiores: muito mais atenção foi dada à **coleta de grandes quantidades de dados** do que somente sofisticar algoritmos e modelos.

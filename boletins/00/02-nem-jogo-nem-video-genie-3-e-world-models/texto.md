@@ -2,6 +2,7 @@
 titulo: "Nem jogo, nem vídeo: Genie 3 e World Models"
 autor: "Heitor Mendes Pereira"
 autor_url: "https://www.linkedin.com/in/mendesheitor/"
+imagem: "https://images.unsplash.com/photo-1774992449688-b3695fcf1be6?auto=format&fit=crop&w=1200&q=70"
 ---
 
 **Você já conhece modelos que geram imagens — e talvez vídeos — a partir de texto.** **Genie 3**, o novo *world model* da Google DeepMind, dá o próximo passo: em vez de produzir quadros soltos, ele gera **mundos navegáveis em tempo real** a partir de um prompt, rodando a **~24 FPS em 720p** e preservando **consistência visual por minutos**.

@@ -2,6 +2,7 @@
 titulo: "Entre Sombras e Vetores: Quando a IA encontra Platão"
 autor: "Vitor Negromonte"
 autor_url: "https://www.linkedin.com/in/vitornegromonte/"
+imagem: "https://images.unsplash.com/photo-1631641551473-fbe46919289d?auto=format&fit=crop&w=1200&q=70"
 ---
 
 E se eu disser que a inteligência artificial e a filosofia caminham lado a lado? Foi isso que um grupo de pesquisadores do MIT sugeriu ao lançar a **Hipótese da Representação Platônica** ([*The Platonic Representation Hypothesis*](https://arxiv.org/abs/2405.07987)). A ideia soa quase poética: **diferentes modelos de IA, treinados com objetivos e dados diversos, estariam convergindo para uma mesma forma de ver o mundo.**

@@ -2,6 +2,7 @@
 titulo: "Formalizando o conhecimento matemático na era da IA"
 autor: "Maria Eduarda Farias"
 autor_url: "https://www.linkedin.com/in/maria-eduarda-farias-b6435327a/"
+imagem: "https://images.unsplash.com/photo-1635372722656-389f87a941b7?auto=format&fit=crop&w=1200&q=70"
 ---
 
 Por volta de 300 a.C., Euclides escreveu *Os Elementos*, uma coleção de 13 livros autocontidos sobre os fundamentos da geometria euclidiana. De modo semelhante, muitos trabalhos matemáticos iniciais podiam ser compreendidos integralmente a partir do próprio texto.

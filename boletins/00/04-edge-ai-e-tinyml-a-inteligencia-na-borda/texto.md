@@ -2,6 +2,7 @@
 titulo: "Edge AI e TinyML: a inteligência na borda"
 autor: "Jaubert Gouveia"
 coluna_convidado: true
+imagem: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=70"
 ---
 
 Em "Eu, Robô", Isaac Asimov imaginou um futuro com cérebros positrônicos: hardware capaz de conferir aos robôs inteligência autônoma e complexa. Era ficção científica. Hoje, porém, uma revolução silenciosa torna isso real, não em androides, mas nos objetos do nosso dia a dia.

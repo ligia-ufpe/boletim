@@ -34,6 +34,8 @@ para o texto):
 
 - `autor_url`: link do LinkedIn/site do autor.
 - `coluna_convidado: true`: sinaliza que é um texto de convidado externo.
+- `imagem`: URL de uma imagem de capa para o texto (usada como thumbnail
+  na listagem e como banner na página do texto pelo blogsite).
 - `fonte`: um link de referência principal do texto.
 
 Nenhum desses é obrigatório — o `README.md` da raiz do repositório explica

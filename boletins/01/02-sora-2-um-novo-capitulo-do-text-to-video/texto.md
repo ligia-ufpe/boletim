@@ -2,6 +2,7 @@
 titulo: "Sora 2: um novo capítulo do text-to-video"
 autor: "Rodrigo Rossiter"
 autor_url: "https://www.linkedin.com/in/rodrigo-rossiter-a36b5227a"
+imagem: "https://images.unsplash.com/photo-1543536448-d209d2d13a1c?auto=format&fit=crop&w=1200&q=70"
 ---
 
 Se você acompanha Generative AI, então já deve estar sabendo do [Sora 2](https://openai.com/index/sora-2/), o novo modelo text-to-video da OpenAI, que é capaz de gerar vídeos hiper-realistas com maior duração, coerência física e áudio sincronizado, permitindo narrativas multi-shot diretamente gerados pelo modelo.
